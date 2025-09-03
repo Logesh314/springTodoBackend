@@ -1,0 +1,28 @@
+
+# Maven / Gradle build
+/target/
+/build/
+
+# IDE files
+/.idea/
+/.vscode/
+/*.iml
+*.classpath
+*.project
+*.settings/
+
+# Logs
+*.log
+logs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Spring Boot specific
+application-*.yml
+application-*.properties
+.env
+
+# Temporary
+*.tmp
